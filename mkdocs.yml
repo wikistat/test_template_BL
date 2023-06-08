@@ -1,4 +1,4 @@
-site_name: Wikistats template
+site_name: Machine Learning course
 
 use_directory_urls: false
 
@@ -14,15 +14,10 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Courses:
-    - Course 1: course1.md
-    - Course 2: 
-      - Course 2-a: course2a.md
-      - Course 2-b: course2b.md
-      
+  - Lectures: lectures.md
   - Schedule: schedule.md
   - Evaluation: evaluation.md
-  - Github repository: https://github.com/wikistat/
+  - Github repository: https://github.com/wikistat/Apprentissage
 #theme: slate
 theme:
   name: 'flatly'

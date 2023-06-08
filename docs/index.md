@@ -3,18 +3,21 @@
 [<img src="img/wikistat.jpg" alt="drawing" height="50"/>](https://github.com/wikistat)
 [`Data Science`](http://www.math.insa-toulouse.fr/fr/enseignement.html) 
 
-# Wikistats course template
+# Machine Learning Course
 
-This is a template for the wikistat courses.  
-You can add your course description here.
+## Summary
+
+The aim of this course is to introduce the supervised learning techniques most commonly used in  *data science* for many fields of application: industrial applications, marketing, insurance, biology, medicine ... The main objective is to built a model for forecasting and therefore to search for optimal  models for different classical statistical algorithms such as linear or generalized linear models, discriminant analysis, less classical : penalized regression, binary decision trees or even so-called Machine Learning algorithms : **Classification And Regression Trees, Random Forests, Neural Networks,  Support Vector Machines, Boosting ...**
+
 
 ## Knowledge requirements
 
-<!-- - [R Tutorial](https://github.com/wikistat/Intro-R) -->
+- [R Tutorial](https://github.com/wikistat/Intro-R) 
 - [Python Tutorial](https://github.com/wikistat/Intro-Python)
 - [Elementary statistic tools](https://github.com/wikistat/StatElem)
 - [Data Exploration and Clustering](https://github.com/wikistat/Exploration). 
-- [Machine Learning](https://github.com/wikistat/Apprentissage)
-- [High Dimensional & Deep Learning](https://github.com/wikistat/High-Dimensional-Deep-Learning)
 
 
+## Machine Learning Tutorials 
+
+- [ML Practical Tutorials](https://github.com/wikistat/Apprentissage)
