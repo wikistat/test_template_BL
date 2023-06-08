@@ -8,7 +8,7 @@ And many things can be done with it.
 $$
 \begin{aligned}
     \frac{\partial L}{\partial \theta} &= \frac{\partial L}{\partial \hat{y}} \frac{\partial \hat{y}}{\partial \theta} \\
-    &= \frac{\partial L}{\partial \hat{y}} (x_1 \sigma_1 + x_2 \sigma_2 + x_3 \sigma_3)
+    &= \frac{\partial L}{\partial \hat{y}} (x_1 \sigma_1 + x_2 \sigma_2 + x_6 \sigma_3)
 \end{aligned}
 $$
 
