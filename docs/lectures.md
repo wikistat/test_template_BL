@@ -2,9 +2,9 @@
 
 ### Slides : 
 
--  #### [Introduction](/pdfcours/Introduction.pdf) 
+-  #### [Introduction](Introduction.md) 
 
--  #### [Risk estimation and Model Selection](/pdfcours/RiskEstim.pdf) 
+-  #### [Risk estimation and Model Selection](Risk.md) 
 
 - #### Linear Models
 
